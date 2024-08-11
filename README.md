@@ -12,7 +12,7 @@ This simple banking system application is implemented in Python using MySQL for 
 - **Credit Transactions**: Deposit funds into an account.
 
 ## Technologies Used -
-- **Python**:The main programming language used for the project.
+- **Python**: The main programming language used for the project.
 - **MySQL Server**: The database system used to store and manage records.
 - **MySQL Connector**: A Python library used to connect Python applications to MySQL databases.
 
@@ -43,5 +43,5 @@ This simple banking system application is implemented in Python using MySQL for 
       ```
 
 ## Usage -
-- Run the banking_system.py script to start the application.
+- Run the `bank.py` script to start the application.
 - Follow the on-screen menu to manage bank account records.

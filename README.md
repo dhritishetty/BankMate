@@ -45,3 +45,5 @@ This simple banking system application is implemented in Python using MySQL for 
 ## Usage -
 - Run the `bank.py` script to start the application.
 - Follow the on-screen menu to manage bank account records.
+
+

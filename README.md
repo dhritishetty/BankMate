@@ -19,7 +19,7 @@ This simple banking system application is implemented in Python using MySQL for 
 ## Installation -
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/dhritishetty/BankMate
+    git clone https://github.com/dhritishetty/BankMate.git
     ```
 2. **Install MySQL:**
     - Install MySQL on your system if not already installed.
